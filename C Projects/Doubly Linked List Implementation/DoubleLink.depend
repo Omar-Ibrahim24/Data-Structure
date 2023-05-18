@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621896821 source:d:\programming\some useless programs\c\doublelink\main.c
+	<stdio.h>
+	<stdlib.h>
+
